@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var xhttp = new XMLHttpRequest()
   
 xhttp.onreadystatechange = function () {
@@ -21,3 +22,6 @@ xhttp.onreadystatechange = function () {
 
 xhttp.open("GET", "/data.json", true)
 xhttp.send()
+=======
+
+>>>>>>> 59172bf0efeb62f4aebaba66d98134964c7a5be4
